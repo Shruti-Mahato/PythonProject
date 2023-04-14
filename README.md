@@ -1,31 +1,23 @@
 # PythonProject
 Created an Employee Database using python.
+
 Write following functions as part of your project -
 
 1)	add_employee(emp_id, emp_name, emp_DOJ, emp_designation, emp_salary) 
-
-Function adds the employee details in a file. 
-Its similar to new onboarding of the employee. Take salary of the employee as default 0.
+           Its similar to new onboarding of the employee. Take salary of the employee as default 0.
 
 2)	add_hr(emp_id, hr_dept, hr_role)
-
-Function adds the hr details in another file. 
-Its similar to new onboarding of a hr member.
-hr_dept can be Recruitment, C&B, Admin. hr_role can be Member, Lead, Manager.
+            hr_dept can be Recruitment, C&B, Admin. hr_role can be Member, Lead, Manager.
 
 3)	search_employee(emp_id)
-
-Take emp_id as the input to the function. Read the employee file and print the details of the employee.
+            Take emp_id as the input to the function. Read the employee file and print the details of the employee.
 
 4)	search_hr(emp_id)
-
-Take emp_id as the input to the function. Read the hr file and print the details of the hr.
-
+            Take emp_id as the input to the function. Read the hr file and print the details of the hr.
 
 Optional
 5)	Upd_employee(emp_id)
-
-Take emp_id as parameter to the function. Display current emp_designation and emp_salary and Prompt for the updated values. Update the record with the new values.
+            Take emp_id as parameter to the function. Display current emp_designation and emp_salary and Prompt for the updated values. Update the record with the new values.
 
 
 Create a login.txt file with 1 record as below
