@@ -1,0 +1,4 @@
+2|C&B|manager
+3|admin|member
+5|C&B|leader
+7|Recruitment|manager

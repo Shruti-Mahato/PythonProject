@@ -1,0 +1,7 @@
+2|shruti mahato|12/12/2020|software developer|400000.0
+3|megha mahato|2/3/2004|web developer|400000.0
+5|mukta mahato|3/6/2012|assistant manager|70000.0
+6|rishabh raj|4/6/2014|front end developer|60000.0
+7|rahul das|4/3/2002|software engineer|500000.0
+8|shree priya|2/4/2014|jr. software engineer|300000.0
+9|aanchal verma|2/4/2001|creative director|80000.0
