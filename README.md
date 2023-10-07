@@ -35,7 +35,8 @@ Login module should prompt for the followings -
 ``` Welcome to Employee System ```
 ``` Please Enter Login id: _____ ```
 ``` Please Enter Password: _____ ```
-``` Welcome to Employee System <br> Please Enter Login id: _____  Please Enter Password: _____ ```
+<pre> ``` Welcome to Employee System <br> Please Enter Login id: _____  Please Enter Password: _____ ``` </pre>
+
 
 Create a script for Admin module:
 1.	display menu of choices like below
