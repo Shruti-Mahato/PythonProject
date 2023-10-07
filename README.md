@@ -94,6 +94,7 @@ Welcome <Employee_name> from HR!!
      Enter q to exit
 Enter your Option
 ```
-For Option 1, Just display all the employee details (Same as Option 1 above and hence should call the same function). <br>
-For Option 2, Prompt for Designation, and display details of all the employee with that designation. <br>
-if designation is “All”, then display details of all the employees (Optional: sorted by Designation when “All”)
+Option 1 - Just display all the employee details (Same as Option 1 above and hence should call the same function). <br>
+Option 2 - Prompt for Designation, and display details of all the employee with that designation. <br>
+if designation is “All”, then display details of all the employees
+> (Optional: sorted by Designation when “All”)
