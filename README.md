@@ -3,16 +3,16 @@ To create an Employee Database using python.
 
 Below are the functions included as part of this project -
 
-1. add_employee(emp_id, emp_name, emp_DOJ, emp_designation, emp_salary)
+## 1. add_employee(emp_id, emp_name, emp_DOJ, emp_designation, emp_salary)
    Its similar to new onboarding of the employee. Take salary of the employee as default 0.
 
-3. add_hr(emp_id, hr_dept, hr_role)
+## 2. add_hr(emp_id, hr_dept, hr_role)
    hr_dept can be Recruitment, C&B, Admin. hr_role can be Member, Lead, Manager.
 
-4. search_employee(emp_id)
-    Take emp_id as the input to the function. Read the employee file and print the details of the employee.
+## 3. search_employee(emp_id)
+   Take emp_id as the input to the function. Read the employee file and print the details of the employee.
 
-5. search_hr(emp_id)
+## 4. search_hr(emp_id)
    Take emp_id as the input to the function. Read the hr file and print the details of the hr.
 
 Optional
