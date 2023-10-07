@@ -35,7 +35,7 @@ Login module should prompt for the followings -
 ``` Welcome to Employee System ```
 ``` Please Enter Login id: _____ ```
 ``` Please Enter Password: _____ ```
-<pre> ``` Welcome to Employee System <br> Please Enter Login id: _____  Please Enter Password: _____ ``` </pre>
+<pre> Welcome to Employee System <br> Please Enter Login id: _____  <br> Please Enter Password: _____  </pre>
 
 
 Create a script for Admin module:
