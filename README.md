@@ -1,7 +1,7 @@
 # PythonProject
 Created an Employee Database using python.
 
-Write following functions as part of your project -
+Below are the functions included as part of this project -
 
 1)	add_employee(emp_id, emp_name, emp_DOJ, emp_designation, emp_salary) 
            Its similar to new onboarding of the employee. Take salary of the employee as default 0.
