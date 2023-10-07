@@ -1,6 +1,5 @@
 # Project
 To create an Employee Database using python.
-
 Below are the functions included as part of this project -
 
 ### 1. add_employee(emp_id, emp_name, emp_DOJ, emp_designation, emp_salary)
@@ -33,7 +32,6 @@ password - admin
 
 #### > Create a script for Login module :
 Login module should prompt for the followings -
-
 <pre> Welcome to Employee System <br> Please Enter Login id: _____  <br> Please Enter Password: _____  </pre>
 
 #### > Create a script for Admin module :
