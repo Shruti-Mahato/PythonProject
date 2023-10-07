@@ -25,7 +25,7 @@ Below are the functions included as part of this project -
    - Display current emp_designation and emp_salary and Prompt for the updated values.
    - Update the record with the new values.
 
-#### --> Create a login.txt file with 1 record as below
+#### > Create a login.txt file with 1 record as below
 ```plaintext
 id - admin
 password - admin
