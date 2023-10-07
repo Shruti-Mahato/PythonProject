@@ -96,5 +96,5 @@ Enter your Option
 ```
 Option 1 - Just display all the employee details (Same as Option 1 above and hence should call the same function). <br>
 Option 2 - Prompt for Designation, and display details of all the employee with that designation. <br>
-if designation is “All”, then display details of all the employees
-> (Optional: sorted by Designation when “All”)
+If designation is “All”, then display details of all the employees
+> Optional: sorted by Designation when “All”
