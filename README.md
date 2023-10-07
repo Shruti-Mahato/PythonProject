@@ -31,60 +31,71 @@ id - admin
 password - admin
 ```
 
-#### > Create a script for Login module 
+#### > Create a script for Login module :
 Login module should prompt for the followings -
 
 <pre> Welcome to Employee System <br> Please Enter Login id: _____  <br> Please Enter Password: _____  </pre>
 
-#### > Create a script for Admin module:
+#### > Create a script for Admin module :
 1.	display menu of choices like below
 ```plaintext
 Welcome Admin!!
-        Enter 1 to add employee
-        Enter 2 to remove employee
-        Enter 3 to add hr
-        Enter 4 to remove hr
-        Enter q to exit
+     Enter 1 to add employee
+     Enter 2 to remove employee
+     Enter 3 to add hr
+     Enter 4 to remove hr
+     Enter q to exit
 Enter your Option 
 ```
-2.	Option 1: 
-o	Prompt for emp_id, emp_name, emp_DOJ, emp_designation, emp_salary
-o	Add a record in “login.txt” with employee_id and Firstname as password
-o	Add a record in employee file through function already created in Day1
-3.	Option 2: 
-o	Prompt for emp_id
-o	Remove the record “login.txt” for the employee_id
-o	Remove the record from employee file through function already created in Day1
-4.	Option 3: 
-o	Prompt for emp_id
-o	As Hr is also an employee, first check if the emp_id exist in employee file
-o	If exist, Prompt for hr_dept, hr_role or else Display error and Quit
-o	Add a record in hr file through function already created in Day1
-5.	Option 4: 
-o	Prompt for emp_id
-o	Remove the record from hr file through function already created Day1
-Optional
-•	Update the above programs to generate the emp_id automatically to avoid duplicates
+###### Following are the operations for different option number-
+```plaintext
+Option 1: 
+	Prompt for emp_id, emp_name, emp_DOJ, emp_designation, emp_salary
+	Add a record in “login.txt” with employee_id and Firstname as password
+	Add a record in employee file through function already created in Day1
+```
+```plaintext
+Option 2: 
+	Prompt for emp_id
+	Remove the record “login.txt” for the employee_id
+	Remove the record from employee file through function already created in Day1
+```
+```plaintext
+Option 3: 
+	Prompt for emp_id
+	As Hr is also an employee, first check if the emp_id exist in employee file
+	If exist, Prompt for hr_dept, hr_role or else Display error and Quit
+	Add a record in hr file through function already created in Day1
+```
+```plaintext
+Option 4: 
+	Prompt for emp_id
+	Remove the record from hr file through function already created Day1
+```
+> Optional
+>	Update the above programs to generate the emp_id automatically to avoid duplicates
 
 
-Create a function for Employee:
-1.	If Login_id is NOT an HR, display menu of choices like below
+### Create a function for Employee :
+1.	If Login_id is NOT of HR, display menu of choices like below -
+```plaintext
 Welcome <Employee_name>!!
-        Enter 1 to view own details
-        Enter 2 to view all HR names
-        Enter q to exit
-Enter your Option 
-
+     Enter 1 to view own details
+     Enter 2 to view all HR names
+     Enter q to exit
+Enter your Option
+```
 •	For Option 1, Just display all the employee details
 •	For Option 2, Display all the Department, HR names, and HR roles (Optional: sorted by Department)
 
-2.	If Login_id is an HR, display menu of choices like below
+2.	If Login_id is of HR, display menu of choices like below -
+```plaintext
 Welcome <Employee_name> from HR!!
-        Enter 1 to view own details
-        Enter 2 to view All employees
-        Enter q to exit
-Enter your Option 
-
+     Enter 1 to view own details
+     Enter 2 to view All employees
+     Enter q to exit
+Enter your Option
+```
 •	For Option 1, Just display all the employee details (Same as Option 1 above and hence should call the same function)
 •	For Option 2, Prompt for Designation, and display details of all the employee with that designation 
 o	if designation is “All”, then display details of all the employees (Optional: sorted by Designation when “All”)
