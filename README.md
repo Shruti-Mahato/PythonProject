@@ -26,8 +26,10 @@ Below are the functions included as part of this project -
    - Update the record with the new values.
 
 #### --> Create a login.txt file with 1 record as below
-- id - admin 
-- password - admin
+```plaintext
+id - admin
+password - admin
+```
 
 #### Create a script for Login module:
 Login module should prompt for the followings -
