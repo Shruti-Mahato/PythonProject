@@ -29,9 +29,9 @@ Below are the functions included as part of this project -
 - id - admin 
 - password - admin
 
-Create a script for Login module:
-•	Login module should prompt for the followings
-Welcome to Employee System
+#### Create a script for Login module:
+Login module should prompt for the followings -
+==Welcome to Employee System==
 Please Enter Login id: ____
 Please Enter Password:  _____
 
