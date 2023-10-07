@@ -32,7 +32,7 @@ Below are the functions included as part of this project -
 #### Create a script for Login module:
 Login module should prompt for the followings -
 
-''' Welcome to Employee System'''
+''' Welcome to Employee System '''
 Please Enter Login id: ____
 Please Enter Password:  _____''
 
