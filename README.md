@@ -31,15 +31,14 @@ id - admin
 password - admin
 ```
 
-#### Create a script for Login module:
+#### > Create a script for Login module 
 Login module should prompt for the followings -
-
 
 <pre> Welcome to Employee System <br> Please Enter Login id: _____  <br> Please Enter Password: _____  </pre>
 
-
-Create a script for Admin module:
+#### > Create a script for Admin module:
 1.	display menu of choices like below
+```plaintext
 Welcome Admin!!
         Enter 1 to add employee
         Enter 2 to remove employee
@@ -47,7 +46,7 @@ Welcome Admin!!
         Enter 4 to remove hr
         Enter q to exit
 Enter your Option 
-
+```
 2.	Option 1: 
 o	Prompt for emp_id, emp_name, emp_DOJ, emp_designation, emp_salary
 o	Add a record in “login.txt” with employee_id and Firstname as password
