@@ -70,8 +70,8 @@ Option 4:
 	Prompt for emp_id
 	Remove the record from hr file through function already created Day1
 ```
-> Optional
->	Update the above programs to generate the emp_id automatically to avoid duplicates
+> Optional <br>
+      >	Update the above programs to generate the emp_id automatically to avoid duplicates
 
 
 ### Create a function for Employee :
@@ -83,8 +83,8 @@ Welcome <Employee_name>!!
      Enter q to exit
 Enter your Option
 ```
-•	For Option 1, Just display all the employee details
-•	For Option 2, Display all the Department, HR names, and HR roles (Optional: sorted by Department)
+For Option 1, Just display all the employee details. <br>
+  For Option 2, Display all the Department, HR names, and HR roles (Optional: sorted by Department)
 
 2.	If Login_id is of HR, display menu of choices like below -
 ```plaintext
@@ -94,6 +94,6 @@ Welcome <Employee_name> from HR!!
      Enter q to exit
 Enter your Option
 ```
-•	For Option 1, Just display all the employee details (Same as Option 1 above and hence should call the same function)
-•	For Option 2, Prompt for Designation, and display details of all the employee with that designation 
-o	if designation is “All”, then display details of all the employees (Optional: sorted by Designation when “All”)
+For Option 1, Just display all the employee details (Same as Option 1 above and hence should call the same function)
+For Option 2, Prompt for Designation, and display details of all the employee with that designation 
+if designation is “All”, then display details of all the employees (Optional: sorted by Designation when “All”)
