@@ -25,15 +25,16 @@ Below are the functions included as part of this project -
    - Display current emp_designation and emp_salary and Prompt for the updated values.
    - Update the record with the new values.
 
-#### Create a login.txt file with 1 record as below
+#### --> Create a login.txt file with 1 record as below
 - id - admin 
 - password - admin
 
 #### Create a script for Login module:
 Login module should prompt for the followings -
-==Welcome to Employee System==
+
+''' Welcome to Employee System'''
 Please Enter Login id: ____
-Please Enter Password:  _____
+Please Enter Password:  _____''
 
 Create a script for Admin module:
 1.	display menu of choices like below
