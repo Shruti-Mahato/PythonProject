@@ -19,10 +19,10 @@ Below are the functions included as part of this project -
    - Read the hr file and print the details of the hr.
 
 > Optional
-### 5. Upd_employee(emp_id)
-   - Take emp_id as parameter to the function.
-   - Display current emp_designation and emp_salary and Prompt for the updated values.
-   - Update the record with the new values.
+> ### 5. Upd_employee(emp_id)
+>   - Take emp_id as parameter to the function.
+>   - Display current emp_designation and emp_salary and Prompt for the updated values.
+>   - Update the record with the new values.
 
 #### > Create a login.txt file with 1 record as below
 ```plaintext
@@ -71,7 +71,7 @@ Option 4:
 	Remove the record from hr file through function already created Day1
 ```
 > Optional <br>
->	Update the above programs to generate the emp_id automatically to avoid duplicates
+> Update the above programs to generate the emp_id automatically to avoid duplicates.
 
 
 ### Create a function for Employee :
