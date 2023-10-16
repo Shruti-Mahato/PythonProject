@@ -18,7 +18,7 @@ Below are the functions included as part of this project -
    - Take emp_id as the input to the function.
    - Read the hr file and print the details of the hr.
 
-> Optional
+**Optional**
 > ### 5. Upd_employee(emp_id)
 >   - Take emp_id as parameter to the function.
 >   - Display current emp_designation and emp_salary and Prompt for the updated values.
@@ -45,7 +45,7 @@ Welcome Admin!!
      Enter q to exit
 Enter your Option 
 ```
-###### Following are the operations for different option number-
+**Following are the operations for different option number-**
 ```plaintext
 Option 1: 
 	Prompt for emp_id, emp_name, emp_DOJ, emp_designation, emp_salary
